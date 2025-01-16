@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+    <channel>
+
+        <title>DAW-109 Araceli López Trujillo</title>
+
+        <link>http://daw109.ieslossauces.es/</link>
+
+        <description>Actualización de mi página:</description>
+
+        <language>es-es</language>
+
+        <pubDate>Sat, 12 Dec 2024 20:17:00 +0000</pubDate>
+
+        <lastBuildDate>Sat, 12 Dec 2024 20:17:00 +0000</lastBuildDate>
+
+        <category>Tareas</category>
+
+        <copyright>Todos los derechos reservados Araceli López Trujillo</copyright>
+
+           <skipDays>
+
+                    <day>Friday</day>
+                    <day>Sunday</day>
+                    
+           </skipDays>
+
+           <skipHours>
+
+                    <hour>0</hour>
+                    <hour>1</hour>
+                    <hour>2</hour>
+                    <hour>3</hour>
+                    <hour>4</hour>
+                    <hour>5</hour>
+                    <hour>6</hour>
+                    <hour>7</hour>
+
+           </skipHours>
+
+        <item>
+                    <title>Indices</title>
+                    <link>http://daw109.ieslossauces.es</link>
+                    <description><![CDATA[<p><strong>Indice</strong> inspirado en la página oficial de Nintendo</p>]]></description>
+                    <pubDate>Sat, 14 Dec 2024 20:17:00 +0000</pubDate>
+                    <enclosure url="http://daw109.ieslossauces.es/109LMSGIProyectoLMSGI/webroot/media/rss.png" type="image/png"/>
+                    <category>Web</category>
+        </item>
+
+    </channel>
+
+</rss>
